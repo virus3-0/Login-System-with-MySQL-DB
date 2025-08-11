@@ -74,10 +74,11 @@ To test the website, follow these steps:
 **📸 Screenshots**
 ================
 
-* [Register Page Screenshot](<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/824bcd56-61f4-4098-b7fe-4dab9fbf6ceb" />
-)
-* [Login Page Screenshot](<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/b68e34c7-e441-4a06-9feb-a9482386f0b2" />
-)
+* [Register Page Screenshot]<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/f79f7c0f-1b3e-4453-a617-4672f0ba1a63" />
+
+* [Login Page Screenshot]<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/72f26aa7-ff6d-4a74-a316-311d66776c43" />
+
+
 
 **📦 API Reference**
 ================
